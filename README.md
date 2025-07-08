@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá!
 
-<!--
-**felpalbq/felpalbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Felipe Silva**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Back-End** e **Python**.
 
-Here are some ideas to get you started:
+- 💻 Focado em **desenvolvimento de APIs** e **Programação Orientada a Objetos (POO)**.
+- 🌱 Apaixonado por **bancos de dados** e sempre buscando aprender novas tecnologias.
+- 🌍 Em constante aprendizado para criar **sistemas escaláveis** e **automatizar processos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felpsszalbq) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felpalbq)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felpsszalbq)
+
+---
+
+## ⚡ **Stack**
+
+- **Back-End**: Python, Flask, Django, FastAPI
+- **Banco de Dados**: PostgreSQL, MongoDB
+- **DevOps**: GitHub Actions, Docker, AWS
+- **Outros**: APIs REST, POO
