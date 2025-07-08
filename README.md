@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Sou **Felipe Silva**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Back-End** e **Python**.
+Sou **Felipe Albuquerque**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Back-End** e **Python**.
 
 - 💻 Focado em **desenvolvimento de APIs** e **Programação Orientada a Objetos (POO)**.
 - 🌱 Apaixonado por **bancos de dados** e sempre buscando aprender novas tecnologias.
