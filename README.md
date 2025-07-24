@@ -1,4 +1,4 @@
-![Coding GIF](https://media1.tenor.com/m/DnMOr2rgYaQAAAAd/jim-carrey-jim-carrey-typing.gif)
+![Jim Carrey Typing](./jim-carrey-jim-carrey-typing.gif)
 
 # 👋 Olá!
 
