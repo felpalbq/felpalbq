@@ -2,11 +2,12 @@
 
 # 👋 Olá!
 
-Sou **Felipe Albuquerque**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Back-End** e **Python**.
+Sou **Felipe Albuquerque**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Análise de Dados**.
 
-- 💻 Focado em **desenvolvimento de APIs** e **Programação Orientada a Objetos (POO)**.
-- 🌱 Apaixonado por **bancos de dados** e sempre buscando aprender novas tecnologias.
-- 🌍 Em constante aprendizado para criar **sistemas escaláveis** e **automatizar processos**.
+- 📊 Focado em **Python (Pandas, NumPy)** e **SQL** para exploração, limpeza e modelagem de dados.
+- 📈 Criação de **dashboards** e **storytelling** com **Power BI**.
+- 🔄 Automação de rotinas **ETL** e padronização de dados para apoio à decisão.
+- 🗄️ Experiência prática com **MySQL** para consulta, modelagem e otimização de consultas.
 
 ---
 
@@ -20,7 +21,8 @@ Sou **Felipe Albuquerque**, estudante de **Análise e Desenvolvimento de Sistema
 
 ## ⚡ **Stack**
 
-- **Back-End**: Python, Flask, Django, FastAPI
-- **Banco de Dados**: PostgreSQL, MongoDB
-- **DevOps**: GitHub Actions, Docker, AWS
-- **Outros**: APIs REST, POO
+- **Linguagens & Libs**: Python (**Pandas**, **NumPy**), **SQL**
+- **BI & Visualização**: **Power BI**
+- **Banco de Dados**: **MySQL**
+- **Conceitos**: Limpeza/Preparação de Dados, ETL, Modelagem, Análise Exploratória, Storytelling com Dados
+
