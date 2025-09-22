@@ -5,7 +5,7 @@
 Sou **Felipe Albuquerque**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Análise de Dados**.
 
 - 📊 Focado em **Python (Pandas, NumPy)** e **SQL** para exploração, limpeza e modelagem de dados.
-- 📈 Criação de **dashboards** e **storytelling** com **Power BI**.
+- 📈 Criação de **dashboards** e **storytelling** com **Excel** e **Power BI**.
 - 🔄 Automação de rotinas **ETL** e padronização de dados para apoio à decisão.
 - 🗄️ Experiência prática com **MySQL** para consulta, modelagem e otimização de consultas.
 
